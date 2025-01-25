@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnimeRatingwwebsite/static/css/main.6b384f71.css",
-    "main.js": "/AnimeRatingwwebsite/static/js/main.87871382.js",
-    "static/js/488.9c92ff38.chunk.js": "/AnimeRatingwwebsite/static/js/488.9c92ff38.chunk.js",
-    "index.html": "/AnimeRatingwwebsite/index.html",
-    "main.6b384f71.css.map": "/AnimeRatingwwebsite/static/css/main.6b384f71.css.map",
-    "main.87871382.js.map": "/AnimeRatingwwebsite/static/js/main.87871382.js.map",
-    "488.9c92ff38.chunk.js.map": "/AnimeRatingwwebsite/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/AnimeRatingwebsite/static/css/main.6b384f71.css",
+    "main.js": "/AnimeRatingwebsite/static/js/main.f7df2a0c.js",
+    "static/js/488.9c92ff38.chunk.js": "/AnimeRatingwebsite/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/AnimeRatingwebsite/index.html",
+    "main.6b384f71.css.map": "/AnimeRatingwebsite/static/css/main.6b384f71.css.map",
+    "main.f7df2a0c.js.map": "/AnimeRatingwebsite/static/js/main.f7df2a0c.js.map",
+    "488.9c92ff38.chunk.js.map": "/AnimeRatingwebsite/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b384f71.css",
-    "static/js/main.87871382.js"
+    "static/js/main.f7df2a0c.js"
   ]
 }
